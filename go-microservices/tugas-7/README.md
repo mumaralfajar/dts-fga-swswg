@@ -1,6 +1,6 @@
 ## Output
 ### Get All Books
-![Get All Books](screenshots/DELETE.png)
+![Get All Books](screenshots/GET.png)
 
 ### Add Book
 ![Add Book](screenshots/POST.png)
